@@ -16,13 +16,13 @@ This repository describes the technology and demonstrates progress, as well as t
 
 Soon the game being developed on this game engine will be available to everyone who is interested in testing the Game Engine on a real device.
 
-Follow the news on the [💬](https://t.me/+R658bUVMRMw3YTli).
+Follow the news on the [telegram 💬](https://t.me/+R658bUVMRMw3YTli).
 
-You can also contact us at [📨](mailto:ddec.team@gmail.com).
+You can also contact us at [mail 📨](mailto:ddec.team@gmail.com).
 
 Follow the changes in this repository...
 
 
 ## List of products developed under this name:
 
-❌ [Subrosa Confidential](https://github.com/Exhausted-Reality/SubrosaKit) — cryptographic encryption framework with certificate generation for the game engine, with the ability to calculate on both CPU and GPU.
+1. [Subrosa Confidential](https://github.com/Exhausted-Reality/SubrosaKit) — cryptographic encryption framework with certificate generation for the game engine, with the ability to calculate on both CPU and GPU.
