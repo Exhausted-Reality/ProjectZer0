@@ -18,7 +18,7 @@ Soon the game being developed on this game engine will be available to everyone 
 
 Follow the news on the [telegram](https://t.me/+R658bUVMRMw3YTli).
 
-You can also contact us at [mail](ddec.team@gmail.com).
+You can also contact us at [mail](mailto:ddec.team@gmail.com).
 
 Follow the changes in this repository...
 
