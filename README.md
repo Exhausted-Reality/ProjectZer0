@@ -25,4 +25,5 @@ Follow the changes in this repository...
 
 ## List of products developed under this name:
 
-1. [Subrosa Confidential](https://github.com/Exhausted-Reality/SubrosaKit) — cryptographic encryption framework with certificate generation for the game engine, with the ability to calculate on both CPU and GPU.
+1. [Subrosa Confidential](https://github.com/Exhausted-Reality/SubrosaKit) — cryptographic encryption framework with the ability to calculate on both CPU and GPU.
+2. Subrosa Notarization Center - сertificate notarization framework for 3rd-party applications that allows you to confirm the authenticity of the developer using the game engine.
